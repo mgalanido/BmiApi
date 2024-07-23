@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BmiApi", "BmiApi.csproj", "{048EC57C-BC8F-4E11-BCC9-65F49213581B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BmiApi.Tests", "..\BmiApi.Tests\BmiApi.Tests.csproj", "{F195C4E2-3D91-4CFF-BC37-DF7A750CA0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{048EC57C-BC8F-4E11-BCC9-65F49213581B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048EC57C-BC8F-4E11-BCC9-65F49213581B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048EC57C-BC8F-4E11-BCC9-65F49213581B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048EC57C-BC8F-4E11-BCC9-65F49213581B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F195C4E2-3D91-4CFF-BC37-DF7A750CA0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F195C4E2-3D91-4CFF-BC37-DF7A750CA0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F195C4E2-3D91-4CFF-BC37-DF7A750CA0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F195C4E2-3D91-4CFF-BC37-DF7A750CA0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0FAC7A-4DD2-4837-8FE4-629DA5AED793}
+	EndGlobalSection
+EndGlobal
